@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "mybook-shelf": "mybook-shelf",
+    "default": "mybook-shelf"
+  }
+}
